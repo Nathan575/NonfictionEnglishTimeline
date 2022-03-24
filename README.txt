@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/P233/pen/LobqH.
-
- 
+Nathan Elias & Cooper Roalson (LASA '23)
+AP English III: Nonfiction Book Project
