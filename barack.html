@@ -7,6 +7,9 @@
 
     <link href="style.css" rel="stylesheet">
     <style>
+        body {
+            background-image: url("Barack.png");
+        }
         /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
         /* -------------------------------------
    * Set to false if you are not using Chrome
@@ -22,14 +25,14 @@
 </head>
 
 <body>
-<center><h1 class="barack">Barack Obama</h1></center>
+<center><h1 class="barack">Barack Obama</h1>
 <div class="barack" id="note"><p>"Barack was a unicorn, after all--shaped by his unusual name, his odd heritage, his
-    hard-to-pin-down ethnicity, his missing dad, his unique mind" (Obama 117).</p></div>
+    hard-to-pin-down ethnicity, his missing dad, his unique mind" (Obama 117).</p></div></center>
 <div class="barack" id="timelineDiv">
     <ul id='timeline'>
 
         <li class='entry'>
-            <input class='radio' id='trigger1' name='trigger' type='radio'>
+            <input checked='checked' class='radio' id='trigger1' name='trigger' type='radio'>
             <label for=trigger1>
     <span>
     Born
@@ -125,7 +128,7 @@
 
 
         <li class='entry'>
-            <input checked='checked' class='radio' id='trigger10' name='trigger' type='radio'>
+            <input class='radio' id='trigger10' name='trigger' type='radio'>
             <label for=trigger10>
               <span>
               Meeting Michelle
