@@ -7,6 +7,7 @@ body {
     font: 16px/1.5 "Source Sans Pro", sans-serif;
     color: #eee9dc;
     background-repeat: repeat;
+    background-size: cover;
 }
 
 #note {
