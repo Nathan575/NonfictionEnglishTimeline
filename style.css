@@ -6,8 +6,8 @@ body {
     padding: 0 5%;
     font: 16px/1.5 "Source Sans Pro", sans-serif;
     color: #eee9dc;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat;
+    background-size: contain;
 }
 
 #note {
